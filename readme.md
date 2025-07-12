@@ -4,7 +4,7 @@
 **Language**: Python  
 **Version**: 1  
 
-### <a href="https://www.dmeverly.com/completedprojects/ECGClassifier/" style="display: block; text-align:right;" target = "_blank">  Project Overview -> </a>  
+### <a href="https://www.dmeverly.com/completedprojects/MIT_CNN/" style="display: block; text-align:right;" target = "_blank">  Project Overview -> </a>  
 ---  
 
 ## Description  
