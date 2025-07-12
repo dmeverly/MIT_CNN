@@ -1,0 +1,17 @@
+# Ignore secrets and sensitive files
+kaggle.json
+secrets/
+
+# Ignore data files and model outputs
+*.csv
+*.pt
+*.zip
+
+# Ignore system or notebook metadata
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore Colab and VS Code specific files
+*.ipynb
+.vscode/
