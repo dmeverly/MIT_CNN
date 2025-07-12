@@ -13,5 +13,4 @@ __pycache__/
 *.pyc
 
 # Ignore Colab and VS Code specific files
-*.ipynb
 .vscode/
