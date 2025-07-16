@@ -88,3 +88,8 @@ Moody GB & Mark RG. The impact of the MIT-BIH Arrhythmia Database.
 IEEE Eng in Med & Biol 20(3):45‑50, 2001.
 
 Goldberger AL, et al. PhysioBank, PhysioToolkit, and PhysioNet. Circulation 101(23):e215–e220, 2000.
+
+## Disclaimer  
+This project was developed independently on personal time and is not affiliated with or endorsed by any employer or healthcare organization.  
+All data used is publicly available and non-identifiable.  
+All opinions and methods reflect personal research and experimentation.
